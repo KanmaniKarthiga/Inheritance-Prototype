@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(255, 240, 213);
+}
+h1{
+    padding: 10px;
+    background: repeating-linear-gradient(orange, rgb(221, 240, 118), rgb(224, 125, 142));
+    text-align: center;
+    color: rgb(150, 4, 84);
+    text-shadow: rgb(145, 45, 78) 1px 1px;
+    font-size: 35px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+p{
+    font-size: 20px;
+    color: orangered;
+    font-weight: bold;
+    margin-top: 20px;
+}
+pre{
+    color: rgb(3, 14, 107);
+    font-size: 15px;
+    margin-top: 20px;
+}
+hr{
+    background-color: rgb(204, 138, 63);
+    height: 4px;
+}
